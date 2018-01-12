@@ -3,7 +3,7 @@ title: The Performance Addict's Toolbox
 author: Peter Steinbach
 origin: Scionics Computer Innovation GmbH
 email: steinbach@scionics.de
-date: Jan 11, 2018, C++ UG Dresden
+date: January 11, 2018, C++ UG Dresden
 ---
 
 
